@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <unistd.h>
-#include "kmc_lib.h"
+
 
 char a[16][16] = {
     { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
